@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CAEA,MACA,YAAa,CACb,WACA","file":"main.f5367990.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n\ninput {\npadding: 10px;\nmargin: 15px;\n}\n"]}

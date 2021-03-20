@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://navouris.github.io/csb-l074w/static/css/main.f5367990.chunk.css",
+    "main.js": "https://navouris.github.io/csb-l074w/static/js/main.4cb04544.chunk.js",
+    "main.js.map": "https://navouris.github.io/csb-l074w/static/js/main.4cb04544.chunk.js.map",
+    "runtime-main.js": "https://navouris.github.io/csb-l074w/static/js/runtime-main.4a0a30f3.js",
+    "runtime-main.js.map": "https://navouris.github.io/csb-l074w/static/js/runtime-main.4a0a30f3.js.map",
+    "static/js/2.bd35edc7.chunk.js": "https://navouris.github.io/csb-l074w/static/js/2.bd35edc7.chunk.js",
+    "static/js/2.bd35edc7.chunk.js.map": "https://navouris.github.io/csb-l074w/static/js/2.bd35edc7.chunk.js.map",
+    "index.html": "https://navouris.github.io/csb-l074w/index.html",
+    "static/css/main.f5367990.chunk.css.map": "https://navouris.github.io/csb-l074w/static/css/main.f5367990.chunk.css.map",
+    "static/js/2.bd35edc7.chunk.js.LICENSE.txt": "https://navouris.github.io/csb-l074w/static/js/2.bd35edc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0a30f3.js",
+    "static/js/2.bd35edc7.chunk.js",
+    "static/css/main.f5367990.chunk.css",
+    "static/js/main.4cb04544.chunk.js"
+  ]
+}
